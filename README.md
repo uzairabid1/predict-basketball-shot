@@ -47,6 +47,10 @@ pip install opencv-python numpy math cvzone
 - Press **"s"** to start tracking.
 - Press **"n"** (currently unused but assigned).
 
+## Output
+- Basket: ![basket1](https://github.com/user-attachments/assets/83069be2-07cf-4f83-b737-7a3f9a5ee8e2)
+- No basket: ![nobasket1](https://github.com/user-attachments/assets/c2adf53b-4aa6-4db9-b5a4-76de6080d4e2)
+
 ## Usage
 Run the script and ensure the camera captures the ball properly. The script will track the ball and provide a prediction.
 
